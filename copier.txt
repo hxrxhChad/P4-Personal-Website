@@ -1,0 +1,14 @@
+        
+        ---- COLUMN ----
+        
+        crossAxisAlignment: CrossAxisAlignment.center,
+        mainAxisAlignment: MainAxisAlignment.center,
+        children: [],
+
+        ---- PADDING ----
+
+        padding: EdgeInsets.symmetric(
+            horizontal: pad.width * 0.1,
+            vertical: pad.width * 0.02),
+
+        ---- 
